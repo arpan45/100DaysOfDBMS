@@ -1,4 +1,4 @@
-# 100 Days Of DBMS Challange
+# 100 Days Of DBMS Challenge
 ### 100 Days Of DBMS Challenge ( From Basic to Advanced Incl. No SQL , Big data. etc.)
 
 - For next 100 days I will follow [Database Management System](https://nptel.ac.in/courses/106/105/106105175/) by <strong>IIT Kharagpur</strong> course and books to learn about AWS
